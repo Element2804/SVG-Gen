@@ -56,7 +56,7 @@ function init() {
      } 
      let svgTop = `<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">${shapeText}
 
-<text x="150" y="160" font-size="55" text-anchor="middle">${answers.text}</text>
+<text x="150" y="170" font-size="60" text-anchor="middle">${answers.text}</text>
 
 </svg>
 
