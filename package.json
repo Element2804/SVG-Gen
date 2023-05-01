@@ -1,4 +1,18 @@
 {
+  "name": "svg-gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "example": "examples"
+    
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "William Faries",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^8.2.4"
   },
