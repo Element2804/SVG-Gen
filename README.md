@@ -10,6 +10,7 @@ This application is covered under the MIT license.<br>
 ## Table of Contents
 
 - [Installation](#installation)
+- [Test](#test)
 - [Usage](#usage)
 - [Credits](#credits)
 - [Walkthrough-Video](#walkthrough-video)
@@ -32,4 +33,4 @@ After the installation of inquirer type node.js and follow the prompts from the 
 - https://jestjs.io/docs/getting-started
 
 ## Walkthrough-Video
-- https://drive.google.com/file/d/1mTQYmlTSMA_784HpyClmlntrAxBjQOsh/view
+- https://drive.google.com/file/d/1cylA_ZlLPilWyktKV_VDikGp41vd7ia9/view
