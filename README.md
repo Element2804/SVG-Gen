@@ -26,6 +26,7 @@ To test type npm i -D jest then after installation type npm test.
 ## Usage
 
 After the installation of inquirer type node.js and follow the prompts from the questions.
+![ezgif-4-2520f2aec4](https://user-images.githubusercontent.com/103654389/235570657-0dfab9d3-5254-495c-a1ff-03583eb20f65.gif)
 
 ## Credits
 
